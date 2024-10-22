@@ -7,7 +7,7 @@
    - Developed a system to identify harmful chemicals in fish, ensuring food safety using IoT and ML.
 
 2. **[Comprehensive Student Management System (Back End Project)](https://github.com/ysriganesh/StudentManagement)**
-   - _Technologies_: Spring Boot, MySQL
+   - _Technologies_: Spring Boot, MySQL , JUnit & Mockito , JDBC
    - A back-end solution to effectively manage student data with Spring Boot and MySQL.
 
 3. **[Crop Recommendation System](https://github.com/ysriganesh/Crop_reommendation)**
